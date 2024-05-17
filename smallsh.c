@@ -1,11 +1,7 @@
 // Name: Aaron Anderson
-// Class: CS374
-// Assignment: Smallsh
-// Due Date: 02/18/2024
+// Project: Smallsh
+// Date: 02/18/2024
 
-// CODE CITATION and NOTE FOR PROFESSOR GAMBORD
-// Date: 02/12/2024
-// I am repeating this class from Fall 2023 and working on my previous submission from last semester.
 
 
 #define _POSIX_C_SOURCE 200809L
